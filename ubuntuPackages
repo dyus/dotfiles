@@ -1,0 +1,22 @@
+vim
+openssl
+pigz
+unzip
+zip
+build-essential
+subversion
+git
+default-jre
+libjpeg-dev
+libxml2-dev
+libxslt1-dev
+
+# python
+python-dev
+python-mysqldb
+python-flup
+python-yaml
+python-setuptools
+python-numpy
+ipython
+ansible
